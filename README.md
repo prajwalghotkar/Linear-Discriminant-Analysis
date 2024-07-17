@@ -1,1 +1,12 @@
 # Linear-Discriminant-Analysis
+![image](https://github.com/user-attachments/assets/ce4bb68e-b9f9-4c71-bd05-7b54912f8745)
+![image](https://github.com/user-attachments/assets/db369fcb-032f-4ba5-a7d2-0d4fb5185de0)
+![image](https://github.com/user-attachments/assets/0c902996-db82-4261-9310-e21fb07c5ca2)
+![image](https://github.com/user-attachments/assets/3f9d15be-f3a9-4076-9a71-441a43cdc5fd)
+![image](https://github.com/user-attachments/assets/120ed664-b7dc-4531-9b4a-f5557103c3a8)
+![image](https://github.com/user-attachments/assets/da9b44b6-fa0d-4493-80b4-9eeff23c0dfc)
+![image](https://github.com/user-attachments/assets/7438cc56-b140-4010-af7e-800f7af2cece)
+![image](https://github.com/user-attachments/assets/2bd43639-baf2-44fc-9895-a04bbc13ae36)
+![image](https://github.com/user-attachments/assets/f7dcdab7-946c-4723-83bf-4dcbd18fdf95)
+![image](https://github.com/user-attachments/assets/1a6c6d99-e2a5-4fdd-acd5-55ef6639105f)
+![image](https://github.com/user-attachments/assets/b4417c57-3d32-4ad2-b95f-9d498fae5b1a)
